@@ -7,10 +7,14 @@ from juego import Juego
 from maquina import Maquina
 from jugador import Jugador
 from collections import deque
+from pyfiglet import figlet_format
 
 
 class main:
-  
+
+  nombre = figlet_format("Domino \nPatoaventuras",font='broadway')
+  print(nombre)
+
   # Actualizar la interfaz gráfica con el estado inicial
   print("¡Bienvenido! ¿Cual es tu nombre?")
   #Crea las 28 fichas 
