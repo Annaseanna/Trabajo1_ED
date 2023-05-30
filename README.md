@@ -1,6 +1,8 @@
 # Domino PatoAventuras
 Estructura de datos
 
+![Imagen hermanos patoaventuras](https://assets.stickpng.com/images/5a8dd350b15d5c051b368fe6.png)
+
 ## Indice
 - [Integrantes](#integrantes)
 - [Instrucciones](#instrucciones)
