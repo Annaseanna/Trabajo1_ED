@@ -1,5 +1,6 @@
 # Domino PatoAventuras
 Estructura de datos
+
 ![imagen patos](https://github.com/Annaseanna/Trabajo1_ED/blob/main/imagenPatos.png)
 
 
