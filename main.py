@@ -12,7 +12,7 @@ from pyfiglet import figlet_format
 
 class main:
 
-  nombre = figlet_format("Domino \nPatoaventuras",font='broadway')
+  nombre = figlet_format("Domino \nPatoaventuras",font='ogre')
   print(nombre)
 
   # Actualizar la interfaz gráfica con el estado inicial
